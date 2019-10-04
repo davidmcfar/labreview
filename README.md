@@ -12,7 +12,7 @@ you'll need git installed locally, as well as a preprocessor like [SASS](https:/
 - Javascript 
 
 ## Installion
-'Cd' to the location of your choice, and then 'git clone'. Hack away!
+`Cd` to the location of your choice, and then `git clone`. Hack away!
 
 ## License
 MIT

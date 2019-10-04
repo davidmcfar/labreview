@@ -1,4 +1,4 @@
-![Phase one of the mcu](marvel_banner.png "mcu phase 1")
+![Phase one of the mcu](images/marvel_banner.png "mcu phase 1")
 # ALL about the mcu
 A retrospective on phase 1 of [marvel](https://www.marvel.com/) cinematic universe. you can visit marvel.com for more info, or click on the character icons to load their info
 
@@ -12,7 +12,7 @@ you'll need git installed locally, as well as a preprocessor like [SASS](https:/
 - Javascript 
 
 ## Installion
-''Cd to the location of your choice, and then 'git clone'. Hack away!''
+'Cd' to the location of your choice, and then 'git clone'. Hack away!
 
 ## License
 MIT

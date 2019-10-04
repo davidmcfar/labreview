@@ -6,7 +6,7 @@ A retrospective on phase 1 of marvel cinematic universe. you can visit marvel.co
 use a modern browser 
 you'll need git installed locally, as well as a preprocessor like SASS for CSS compilation =. A good code editor helps too!
 
-Built with:
+## Built with:
 HTML
 CSS
 JavaScript

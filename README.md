@@ -7,19 +7,19 @@ use a modern browser
 you'll need git installed locally, as well as a preprocessor like [SASS](https://sass-lang.com/) for CSS compilation =. A good code editor helps too!
 
 ## Built with:
-HTML
-CSS
-JavaScript
+- Html
+- CSS
+- Javascript 
 
 ## Installion
-Cd tp the location of your choice, and then git clone. Hack away!
+''Cd to the location of your choice, and then 'git clone'. Hack away!''
 
 ## License
 MIT
 
 ## authors 
-dtm - front-end dev
-dm - web designer
-po - graphic designer 
-hd - 3D / Motion 
-re - Photography 
+- dtm - front-end dev
+- dm - web designer
+- po - graphic designer 
+- hd - 3D / Motion 
+- re - Photography 
